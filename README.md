@@ -1,2 +1,2 @@
-just README file
+First Practicum Project 
 # first-project
